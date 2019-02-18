@@ -1,5 +1,5 @@
 <?php
-require('logout.php');
+require('dataBaseConect.php');
 
 $con = new ConectorBD();
 
